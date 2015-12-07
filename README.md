@@ -1,5 +1,5 @@
 # Vote App
-To start application run the following command
+To start application run the following command (java 8 is required)
 > mvn spring-boot:run
 
 The following users are available:
